@@ -6,4 +6,4 @@ Di dunia data, saya tidak hanya menikmati pekerjaan operasional dan ETL/ELT pipe
 
 Saat ini, saya terus mengembangkan diri di bidang data engineering dan machine learning agar mampu menciptakan solusi inovatif yang efektif dan efisien dalam skala besar.
 
-[Lihat Disini CV Saya] (https://github.com/ahsanuihsan/portfolio-IhsanAhsanuAmala/blob/main/CV_Ihsan_Ahsanu_Amala.pdf)
+[Lihat Disini CV Saya](https://github.com/ahsanuihsan/portfolio-IhsanAhsanuAmala/blob/main/CV_Ihsan_Ahsanu_Amala.pdf)
