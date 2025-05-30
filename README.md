@@ -1,4 +1,8 @@
 # portfolio-IhsanAhsanuAmala
+
+---
+![ProfilePicture](https://github.com/user-attachments/assets/05814776-2719-4a78-b50e-7652b291600e)
+
 ---
 Saya adalah seorang Data Engineer di BTPN Syariah , dengan fokus pada pengembangan infrastruktur data dan pipeline yang mendukung proses bisnis serta analisis berbasis data. Saya memiliki pengalaman dalam membangun solusi data yang scalable menggunakan teknologi Amazon Web Services (AWS) seperti S3, Glue, Step Functions (SFN), Lambda (LFN), SSIS, SQL Server, Python , dan tools visualisasi seperti Tableau .
 
